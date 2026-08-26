@@ -896,6 +896,9 @@
       },
       "media": {
         "url": "images/2020-成立美鴻電子.jpg"
+      },
+      "background": {
+        "color": "#00CED1"
       }
     },
     {
@@ -1081,6 +1084,9 @@
       },
       "media": {
         "url": "images/2023-Aurora睡眠耳塞榮獲國際設計大獎.jpg"
+      },
+      "background": {
+        "color": "#FFE4B5"
       }
     },
     {
@@ -1134,6 +1140,9 @@
       },
       "media": {
         "url": "images/2023-榮獲2023企業永續報告金獎.jpg"
+      },
+      "background": {
+        "color": "#FFE4B5"
       }
     },
     {
