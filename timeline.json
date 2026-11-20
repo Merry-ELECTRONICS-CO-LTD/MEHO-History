@@ -1649,6 +1649,37 @@
       "media": {
         "url": "images/2025-董事長交接.jpg"
       }
-    }
-  ]
-}
+    },
+    {
+      "start_date": {
+        "year": "2026",
+        "month": "10"
+      },
+      "text": {
+        "headline": "榮獲新北市友中高齡及高齡者善職場金質獎",
+        "text": ""
+      },
+      "media": {
+        "url": "images/2026-榮獲新北市友中高齡及高齡者善職場金質獎.jpg"
+      },
+      "background": {
+        "color": "#FFE4B5"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2026",
+        "month": "11"
+      },
+      "text": {
+        "headline": "榮獲經濟部致䁬創業五十年獎盃",
+        "text": ""
+      },
+      "media": {
+        "url": "images/2026-榮獲經濟部致䁬創業五十年獎盃.jpg"
+      },
+      "background": {
+        "color": "#FFE4B5"
+      }
+    },
+    
